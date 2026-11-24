@@ -1,0 +1,7 @@
+{
+  "appId": "com.corpomerch.invoice",
+  "appName": "CorpoMerch Invoice",
+  "webDir": "www",
+  "android": { "backgroundColor": "#ffffff" },
+  "plugins": { "SystemBars": { "insetsHandling": "css" } }
+}

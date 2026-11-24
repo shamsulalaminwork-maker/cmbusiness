@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CorpoMerch Invoice</string>
+    <string name="title_activity_main">CorpoMerch Invoice</string>
+    <string name="package_name">com.corpomerch.invoice</string>
+    <string name="custom_url_scheme">com.corpomerch.invoice</string>
+</resources>

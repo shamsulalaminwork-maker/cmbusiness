@@ -1,0 +1,20 @@
+{
+  "name": "corpomerch-invoice",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/app": "^8.0.0",
+    "@capacitor/cli": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/filesystem": "^8.0.0",
+    "@capacitor/preferences": "^8.0.0",
+    "@capacitor/share": "^8.0.0",
+    "@fontsource/inter": "^5.0.0",
+    "@supabase/supabase-js": "^2.119.2",
+    "esbuild": "^0.25.0"
+  }
+}
